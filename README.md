@@ -54,7 +54,7 @@ https://www.youbytes.com/api/query
 
 
 * 返回示例
-```
+```json
 {
     "data":{
         "items":[
