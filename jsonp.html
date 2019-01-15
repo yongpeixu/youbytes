@@ -92,7 +92,7 @@
     function search(q) {
         document.getElementById('cname').innerText=urlget.c;  // 连接集名称
         var script = document.createElement("script");
-        script.src = "http://www.youbytes.com/api/query?c="+encodeURIComponent(cname)+"&q="+encodeURIComponent(q)+"&f=jsonp&callback=handleResp";
+        script.src = "https://www.youbytes.com/api/query?c="+encodeURIComponent(cname)+"&q="+encodeURIComponent(q)+"&f=jsonp&callback=handleResp";
         document.body.insertBefore(script, document.body.firstChild);
     }
   })();
