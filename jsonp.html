@@ -53,6 +53,7 @@
 </body>
 
 <script type="text/javascript">
+  var cname="bookstack电子书";
   var qret = document.getElementById("qret");
   function handleResp(ret) {
     if (ret == null || ret == undefined) return;
@@ -74,7 +75,6 @@
     }
   }
   (function () {
-    var cname="bookstack电子书";
     var keyword=document.getElementById('q')
     var url = location.search; //获取url中"?"符后的字串
     var urlget = new Object();
