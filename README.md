@@ -28,7 +28,7 @@ youbytes.com
 
 基于API应用程序接口 jsonp格式 实现编写HTML页面，上传到站点可访问的位置。
 
-示例代码: https://github.com/yongpeixu/youbytes
+示例代码: [html-example.md](html-example.md)
 
 -----
 
