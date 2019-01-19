@@ -16,10 +16,10 @@ youbytes.com
 
 | 参数名称 | 是否可空 | 说明 | 备注 |
 | -------- | -------- | -------- | -------- |
-| c     | 否     | 连接集名称     |  无   | 
+| c     | 否     | 连接号名称     |  无   | 
 | q     | 是     | 搜索关键字     |   无  | 
 
-[示例](http://www.youbytes.com/public/search.html?c=bookstack%E7%94%B5%E5%AD%90%E4%B9%A6) http://www.youbytes.com/public/search.html?c=bookstack电子书
+[示例](https://www.youbytes.com/public/search.html?c=bookstack%E7%94%B5%E5%AD%90%E4%B9%A6) https://www.youbytes.com/public/search.html?c=bookstack电子书
 
 -----
 
