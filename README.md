@@ -5,7 +5,7 @@ youbytes.com
 --
 
 1. 通用搜索页面 
-2. 嵌入HTML页面到网站
+2. 嵌入HTML页面到网站或手机应用
 3. API接口
 
 -----
@@ -24,7 +24,7 @@ youbytes.com
 -----
 
 
-## 2. 嵌入HTML页面到网站或应用
+## 2. 嵌入HTML页面到网站或手机应用
 
 基于API应用程序接口 jsonp格式 实现编写HTML页面，上传到站点可访问的位置。
 
@@ -79,10 +79,11 @@ https://www.youbytes.com/api/query
                 "title":null
             }
         ],
-        "itemsPerPage":50,
-        "startIndex":1,
-        "total":47118,
-        "totalResults":2219
+        "count":2220,
+        "msg":"共2,220项结果",
+        "page":1,
+        "pageSize":10,
+        "total":47119
     },
     "msg":"OK",
     "result":0
